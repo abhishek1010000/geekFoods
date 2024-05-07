@@ -1,0 +1,14 @@
+.footer{
+    width: 40vw;
+    text-align: center;
+    margin: auto;
+}
+.footer_para{
+    margin-top: 20px;
+}
+.footerul{
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+    gap: 15px;
+}
